@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">毫秒</string>
+
+    <!-- Googleのid関係 -->
+    <string name="google_app_id">163581095799</string>
+    <string name="ad_unit_id">ca-app-pub-1100362701950968/6399754735</string>
+
+    <!-- オプションメニュー -->
+    <string name="action_settings">設定</string>
+    <string name="pause">暫停</string>
+
+    <string name="fire">Fire!</string>
+
+    <!-- 右上表示 -->
+    <string name="stage1">Stage 1</string>
+    <string name="stage">Stage %1$s</string>
+    <string name="mute">(靜音)</string>
+    <string name="highscore">最高得分: %1$s</string>
+
+    <!-- レベル -->
+    <string name="beginner">Beginner %1$s</string>
+    <string name="easy">Easy %1$s</string>
+    <string name="normal">Normal %1$s</string>
+    <string name="hard">Hard %1$s</string>
+    <string name="crazy">Crazy %1$s</string>
+
+    <!-- スタートボタン -->
+    <string name="start">Start</string>
+    <string name="resume">Restart</string>
+    <string name="nextstage">Next Stage</string>
+    <string name="newgame">New Game</string>
+
+    <!-- ターゲット -->
+    <string name="cleartime">Clear: %1$s%2$s</string>
+    <string name="text">文字</string>
+    <string name="vibration">震動</string>
+    <string name="colorRed">顏色: 紅色</string>
+    <string name="colorBlue">顏色: 藍色</string>
+    <string name="colorGreen">顏色: 綠色</string>
+    <string name="sound">聲音</string>
+
+    <!-- 結果 -->
+    <string name="second">" 秒"</string>
+    <string name="gameover">Game Over %1$s</string>
+    <string name="miss">Miss</string>
+    <string name="clear">Clear %1$s</string>
+    <string name="timeout">Timeout</string>
+    <string name="redline">Redline</string>
+
+    <!-- トースト -->
+    <string name="toastmes">你要通關%1$s的stage15</string>
+
+</resources>

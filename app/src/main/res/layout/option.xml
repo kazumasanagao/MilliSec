@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true"
+        android:layout_marginBottom="50dp">
+
+        <LinearLayout
+            android:orientation="vertical" android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#000000"
+            android:padding="15dp"
+            >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#ff0000"
+                android:textSize="30sp"
+                android:text="Game Level" />
+
+            <RadioGroup
+                android:id="@+id/radiogroup"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" >
+                <RadioButton
+                    android:id="@+id/radiobutton1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#ffffff"
+                    android:buttonTint="#ffffff"
+                    android:textSize="25sp"
+                    android:layout_marginTop="15dp"
+                    android:text="Beginner" />
+                <RadioButton
+                    android:id="@+id/radiobutton2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#ffffff"
+                    android:buttonTint="#ffffff"
+                    android:textSize="25sp"
+                    android:layout_marginTop="15dp"
+                    android:text="Easy" />
+                <RadioButton
+                    android:id="@+id/radiobutton3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#ffffff"
+                    android:buttonTint="#ffffff"
+                    android:textSize="25sp"
+                    android:layout_marginTop="15dp"
+                    android:text="Normal" />
+                <RadioButton
+                    android:id="@+id/radiobutton4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#ffffff"
+                    android:buttonTint="#ffffff"
+                    android:textSize="25sp"
+                    android:layout_marginTop="15dp"
+                    android:text="Hard" />
+                <RadioButton
+                    android:id="@+id/radiobutton5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#ffffff"
+                    android:buttonTint="#ffffff"
+                    android:textSize="25sp"
+                    android:layout_marginTop="15dp"
+                    android:text="Crazy" />
+            </RadioGroup>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#ff0000"
+                android:textSize="30sp"
+                android:layout_marginTop="25dp"
+                android:text="Sound" />
+
+            <ToggleButton
+                android:id="@+id/togglebutton"
+                android:layout_width="58dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/toggle_bg"
+                android:button="@drawable/toggle_btn"
+                android:textOff=""
+                android:textOn="" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+    <LinearLayout
+    android:id="@+id/layout_ad"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:layout_alignParentBottom="true"
+    android:background="#999"
+    android:orientation="vertical">
+    </LinearLayout>
+
+</RelativeLayout>

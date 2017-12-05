@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    tools:context=".MainActivity"
+    >
+
+    <RelativeLayout
+        android:id="@+id/mainscreen"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="15dp"
+        android:layout_marginBottom="50dp" >
+
+    <TextView
+        android:id="@+id/startgame"
+        android:text="@string/start"
+        android:textColor="#ffffff"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:textSize="50sp" />
+    <TextView
+        android:id="@+id/target"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#ffffff"
+        android:textSize="25sp"/>
+    <TextView
+        android:id="@+id/cleartime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/target"
+        android:layout_marginTop="10dp"
+        android:textColor="#ffffff"
+        android:textSize="20sp"/>
+    <TextView
+        android:id="@+id/stage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/stage1"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:textColor="#ffffff"
+        android:textSize="25sp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:textColor="#ffffff"
+        android:textSize="15sp"
+        android:id="@+id/level"
+        android:layout_below="@+id/stage"
+        android:layout_marginTop="10dp" />
+    <TextView
+        android:id="@+id/highscore"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:textColor="#ffffff"
+        android:textSize="15sp"
+        android:layout_below="@+id/level"
+        android:layout_marginTop="3dp" />
+    <TextView
+        android:id="@+id/timerView"
+        android:textColor="#ffffff"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:textSize="50sp" />
+    <TextView
+        android:id="@+id/fire"
+        android:textColor="#ffffff"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        android:layout_above="@+id/startgame"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="15dp" />
+    <TextView
+        android:id="@+id/result"
+        android:textColor="#ffffff"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        android:layout_above="@+id/startgame"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="15dp" />
+
+    <View
+        android:id="@+id/redline"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:background="@drawable/inset"
+        android:visibility="gone" />
+    <View
+        android:id="@+id/redline2"
+        android:layout_width="45dp"
+        android:layout_height="match_parent"
+        android:background="@drawable/inset2"
+        android:visibility="gone" />
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/layout_ad"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:background="#999"
+        android:orientation="vertical">
+    </LinearLayout>
+
+</RelativeLayout>

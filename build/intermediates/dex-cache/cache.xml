@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/kazumasanagao/Documents/Timeshock/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="/Users/kazumasanagao/Documents/Timeshock/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-gcm-8.4.0_554c874122b70672a5faf3ac1977aac921719a85.jar" />
+    </item>
+    <item
+        jar="/Users/kazumasanagao/Documents/Timeshock/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/kazumasanagao/Documents/Timeshock/app/build/intermediates/pre-dexed/release/internal_impl-23.0.0_fe413cba806a33eeebf5012325eacca13465d6aa.jar" />
+    </item>
+    <item
+        jar="/Users/kazumasanagao/Documents/Timeshock/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="/Users/kazumasanagao/Documents/Timeshock/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-panorama-8.4.0_49a65b272ba4f02f0b3c7822ce6f02ebb6335a9f.jar" />
+    </item>
+    <item
+        jar="/Users/kazumasanagao/Documents/Timeshock/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="/Users/kazumasanagao/Documents/Timeshock/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-safetynet-8.4.0_152a51c42df279afe18f7a3a11cf68b36f41ffa7.jar" />
+    </item>
+    <item
+        jar="/Users/kazumasanagao/Documents/Timeshock/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="/Users/kazumasanagao/Documents/Timeshock/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-games-8.4.0_6b37b9961e76da7801dbdaa1d2e65c848ed5a2c9.jar" />
+    </item>
+    <item
+        jar="/Users/kazumasanagao/Documents/Timeshock/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/kazumasanagao/Documents/Timeshock/app/build/intermediates/pre-dexed/release/internal_impl-23.3.0_667a793d400c60c8c2ab6bc792b4d3ced947b76b.jar" />
+    </item>
+    <item
+        jar="/Users/kazumasanagao/Documents/Timeshock/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="/Users/kazumasanagao/Documents/Timeshock/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-identity-8.4.0_a3a08819cbf4d9762c1d6e5b42fdbcfbafef590f.jar" />
+    </item>
+    <item
+        jar="/Users/kazumasanagao/Documents/Timeshock/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="/Users/kazumasanagao/Documents/Timeshock/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-ads-8.4.0_6561e8ca08035b2cbd9a9878b58791c769155f22.jar" />
+    </item>
+    <item
+        jar="/Users/kazumasanagao/Documents/Timeshock/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/kazumasanagao/Documents/Timeshock/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-23.3.0_05aa1eaf4c0bdb2e2a610f7691661e87e94e5053.jar" />
+    </item>
+    <item
+        jar="/Users/kazumasanagao/Documents/Timeshock/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="/Users/kazumasanagao/Documents/Timeshock/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-vision-8.4.0_b98e787f6ad785addd4ec84fc012de353b15a489.jar" />
+    </item>
+    <item
+        jar="/Users/kazumasanagao/Documents/Timeshock/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="/Users/kazumasanagao/Documents/Timeshock/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-maps-8.4.0_033410f51c2a4d30a9bec7d9aaf43d592d6eae3e.jar" />
+    </item>
+    <item
+        jar="/Users/kazumasanagao/Documents/Timeshock/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="/Users/kazumasanagao/Documents/Timeshock/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-cast-8.4.0_c9240d5718c362f17e8f61cc1993fd42c5404ceb.jar" />
+    </item>
+    <item
+        jar="/Users/kazumasanagao/Documents/Timeshock/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="/Users/kazumasanagao/Documents/Timeshock/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-location-8.4.0_92e3083480a6858e8e9cfaeb389e7343b3fd00ea.jar" />
+    </item>
+    <item
+        jar="/Users/kazumasanagao/Documents/Timeshock/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="/Users/kazumasanagao/Documents/Timeshock/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-nearby-8.4.0_ad90eb12b3ee75227e9d4d1e59df89b2bb64167d.jar" />
+    </item>
+    <item
+        jar="/Users/kazumasanagao/Documents/Timeshock/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="/Users/kazumasanagao/Documents/Timeshock/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-auth-8.4.0_8cbbb916be4d0218b7a42066aa44530939828806.jar" />
+    </item>
+    <item
+        jar="/Users/kazumasanagao/Documents/Timeshock/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/kazumasanagao/Documents/Timeshock/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-basement-8.4.0_f6ecece67bf5b1f7c7b36d0b4b6c1545680beeb5.jar" />
+    </item>
+    <item
+        jar="/Users/kazumasanagao/Documents/Timeshock/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/Users/kazumasanagao/Documents/Timeshock/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-appindexing-8.4.0_8c2db69771721f56b01407f90f2503a109327241.jar" />
+    </item>
+    <item
+        jar="/Users/kazumasanagao/Documents/Timeshock/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="/Users/kazumasanagao/Documents/Timeshock/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-fitness-8.4.0_95a67680f4d1b404b6869d1cc52b29d12a87a302.jar" />
+    </item>
+    <item
+        jar="/Users/kazumasanagao/Documents/Timeshock/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="/Users/kazumasanagao/Documents/Timeshock/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-appinvite-8.4.0_c6e736e6fabab1e798d32829ef0e1c58932e4efa.jar" />
+    </item>
+    <item
+        jar="/Users/kazumasanagao/Documents/Timeshock/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="/Users/kazumasanagao/Documents/Timeshock/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-drive-8.4.0_5c1644e05e099ba8d7a6cd6b4d4dc0a2f3b22a4e.jar" />
+    </item>
+    <item
+        jar="/Users/kazumasanagao/Documents/Timeshock/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="/Users/kazumasanagao/Documents/Timeshock/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-analytics-8.4.0_c25afa38433a519509a01f8aef959984c21dc8f1.jar" />
+    </item>
+    <item
+        jar="/Users/kazumasanagao/Documents/Timeshock/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="/Users/kazumasanagao/Documents/Timeshock/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-wearable-8.4.0_e4bb689f410f3b4bc67e0f40e121633917e65492.jar" />
+    </item>
+    <item
+        jar="/Users/kazumasanagao/Documents/Timeshock/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="/Users/kazumasanagao/Documents/Timeshock/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-wallet-8.4.0_4f9b33663d0ec8cb42885fb677b02c98a6b531df.jar" />
+    </item>
+    <item
+        jar="/Users/kazumasanagao/Documents/Timeshock/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="/Users/kazumasanagao/Documents/Timeshock/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-plus-8.4.0_7ee9e60d1b607f038f79cd3934d2c061a4677bcb.jar" />
+    </item>
+    <item
+        jar="/Users/kazumasanagao/Documents/Timeshock/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/kazumasanagao/Documents/Timeshock/app/build/intermediates/pre-dexed/release/com.android.support-mediarouter-v7-23.0.0_1b4e4a159a94e941caef8f3af500931cb24b2a9b.jar" />
+    </item>
+    <item
+        jar="/Users/kazumasanagao/Documents/Timeshock/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="/Users/kazumasanagao/Documents/Timeshock/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-measurement-8.4.0_b6593f05a99273293ca6985e89d06ae4b8eea9fa.jar" />
+    </item>
+    <item
+        jar="/Users/kazumasanagao/Documents/Timeshock/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/kazumasanagao/Documents/Timeshock/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-23.3.0_ab4e185ef69117656e7ca48ead67080acc3213dc.jar" />
+    </item>
+    <item
+        jar="/Users/kazumasanagao/Documents/Timeshock/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/kazumasanagao/Documents/Timeshock/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-23.3.0_6b2c399da95970fc905d276e8ef3fa614f579a65.jar" />
+    </item>
+    <item
+        jar="/Users/kazumasanagao/Documents/Timeshock/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/kazumasanagao/Documents/Timeshock/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-base-8.4.0_43635a87efda1281db7f713ce9aabcb4bcf7700b.jar" />
+    </item>
+    <item
+        jar="/Users/kazumasanagao/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/kazumasanagao/Documents/Timeshock/app/build/intermediates/pre-dexed/release/support-annotations-23.3.0_4d008b82534c8f2d5c59f4e6e357f461a3c6ca51.jar" />
+    </item>
+    <item
+        jar="/Users/kazumasanagao/Documents/Timeshock/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/kazumasanagao/Documents/Timeshock/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-23.3.0_23e3131a45f799e9709646bebb926aed41e43d66.jar" />
+    </item>
+
+</items>

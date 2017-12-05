@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="ga_sessionTimeout">300</integer>
+
+    <!-- 自動アクティビティ計測を有効にする。 -->
+    <bool name="ga_autoActivityTracking">true</bool>
+    <!-- Exceptionの自動トラッキング -->
+    <bool name="ga_reportUncaughtExceptions">true</bool>
+
+    <!--
+        screenNameタグでActivityごとにAnalyticsでの表示名を設定する。
+        nameはフルパッケージ名で指定する。
+        screenNameを定義していない場合、Analyticsにはクラス名そのままで計上される。
+    -->
+    <screenName name="in.chample.timeshock.MainActivity">メイン画面</screenName>
+    <screenName name="in.chample.timeshock.OptionActivity">オプション画面</screenName>
+
+    <!-- トラッキングID -->
+    <string name="ga_trackingId">UA-77094565-1</string>
+</resources>
